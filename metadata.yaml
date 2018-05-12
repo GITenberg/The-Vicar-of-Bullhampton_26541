@@ -1,0 +1,46 @@
+_repo: The-Vicar-of-Bullhampton_26541
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Trollope, Anthony
+    birthdate: 1815
+    deathdate: 1882
+    gutenberg_agent_id: '324'
+    url: http://www.gutenberg.org/2009/agents/324
+    wikipedia: http://en.wikipedia.org/wiki/Anthony_Trollope
+description: "The Vicar of Bullhampton is an 1870 novel by Anthony Trollope. It is\
+  \ made up of three intertwining subplots: the courtship of a young woman by two\
+  \ suitors; a feud between the titular Broad church vicar and a Low church nobleman,\
+  \ abetted by a Methodist minister; and the vicar's attempt to rehabilitate a young\
+  \ woman who has gone astray.\nTrollope expected his depiction of a fallen woman\
+  \ to be controversial, and unusually for him wrote a preface defending it. But the\
+  \ anticipated controversy never materialised, and contemporary reviewers tended\
+  \ to ignore that subplot, focussing instead on the courtship in the novel. Reviews\
+  \ were generally less than positive; many reviewers and readers who had acquired\
+  \ a taste for Trollope from the 1850s–60s Barchester novels were unhappy about the\
+  \ darker tone of later novels such as this one.\nTrollope's fortunes suffered because\
+  \ of the mode of the novel's publication. Owing to mismanagement by the publishers,\
+  \ it was not serialised in a popular magazine, as originally intended. Instead,\
+  \ it was issued as monthly numbers, a form of serialisation that had become unpopular\
+  \ with the reading public, and Trollope lost readers as a result.\n From Wikipedia\
+  \ (CC BY-SA)."
+gutenberg_issued: '2008-09-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26541'
+  wikidata: Q7772505
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Clergy -- Fiction'
+- !lcsh 'England -- Fiction'
+- !lcc 'PR'
+title: The Vicar of Bullhampton
+url: http://www.gutenberg.org/ebooks/26541
+wikipedia:
+- https://en.wikipedia.org/wiki/The_Vicar_of_Bullhampton
